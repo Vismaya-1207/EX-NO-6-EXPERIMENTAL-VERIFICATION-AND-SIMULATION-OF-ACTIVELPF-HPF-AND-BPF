@@ -1,15 +1,9 @@
 # EX-NO-6-EXPERIMENTAL-VERIFICATION-AND-SIMULATION-OF-ACTIVELPF-HPF-AND-BPF
 ## 6 DESIGN OF ACTIVE LOW PASS, HIGH PASS AND BAND PASS FILTERS USING OP-AMP
             
-**DATE:**  
-         
----
 
-## AIM
-            
-**DATE:**  
-         
----
+
+
 
 ## AIM and obtain the frequency response of
 
@@ -19,7 +13,7 @@ iii)	Band pass filter
 
 ---
 
-** 6 A :- LOW PASS FILTER**
+## 6 A :- LOW PASS FILTER**
 
 
 
@@ -61,6 +55,9 @@ S2 + 1.414 s + 1
  
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/79735dff-3500-44e3-963c-2f7d2228ea91" />
+
+
 
 
 ## PROCEDURE
@@ -75,26 +72,14 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/94e2d126-c4c1-45a7-bf3b-21ea1b303635" />
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="1484" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f7ad3c4-6e64-47c9-96c2-2b6265b8e5bf" />
 
 ---
 
@@ -145,6 +130,9 @@ S2 + 1.414 s + 1
 Now	Ao = 1 + (Rf / R1) = 1.586 = 1 + 0.586
 Let Ri = 10 KΩ, then Rf = 5.86 KΩ
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d1fb5b07-7246-4de0-825f-1d74f318cbf1" />
+
+
 
 ## PROCEDURE
 
@@ -160,24 +148,13 @@ PROCEDURE - ( HPF):
 ## TABULATION
 
 		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/38d0dfc3-a1a9-4366-93b6-7fbd23971b3d" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="1600" height="1456" alt="image" src="https://github.com/user-attachments/assets/75e6c3f6-5bd6-477b-9d66-fd44ade9ebcc" />
 
 ---
 
@@ -228,6 +205,8 @@ Pass band Gain=4
 Now		Ao = 1 + (Rf / R1) 2-1=(Rf / Ri)
 Ri = Rf
 Let Ri = Rf = 10 KΩ
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/13ee9dec-83ad-4693-80c6-3178a2784565" />
+
 
 
 ## PROCEDURE
@@ -244,30 +223,21 @@ PROCEDURE:BAND PASS FILTER
 
 ## TABULATION
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/7d6cd528-c195-49e7-82d9-096685a72544" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1600" height="1462" alt="image" src="https://github.com/user-attachments/assets/8cd8ca0c-3b6b-47d7-b183-d71f29522258" />
 
 ---
-##RESULT:
+## RESULT:
 	Thus an Active Low pass, High pass and Band Pass Filters are designed and
 tested using op-amp IC 741.
+<img width="2160" height="3287" alt="image" src="https://github.com/user-attachments/assets/72060560-8f60-4762-bb04-c9337a4809d5" />
+
+
+
 ---
 
    
